@@ -1,1 +1,1 @@
-# simply-ruby-app
+# simply-ruby-application
